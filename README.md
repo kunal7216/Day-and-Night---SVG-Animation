@@ -1,5 +1,5 @@
 # Day-and-Night---SVG-Animation
-A Pen created on CodePen.io. Original URL:
+A Pen created on CodePen.io. Original URL:https://codepen.io/kunal7216/pen/jOQXqzK
 
 
 ![Screenshot 2023-07-31 145043](https://github.com/kunal7216/Day-and-Night---SVG-Animation/assets/112888767/fea9f9f9-6581-4606-843b-5504ba0f148d)
